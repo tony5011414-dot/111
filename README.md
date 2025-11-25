@@ -32,6 +32,7 @@
 ## 🛠️ 技術棧
 
 ### 前端
+
 - **React 18+** - 現代化的前端框架
 - **React Router** - 單頁應用路由管理
 - **Axios** - HTTP 請求處理
@@ -39,6 +40,7 @@
 - **Material-UI / Ant Design** - UI 元件庫（可選）
 
 ### 後端
+
 - **Django 4.2** - Python Web 框架
 - **Django REST Framework** - RESTful API 開發
 - **PostgreSQL** - 關聯式資料庫
@@ -46,6 +48,7 @@
 - **Django Filter** - 進階過濾功能
 
 ### 部署
+
 - **Docker** - 應用程式容器化
 - **Docker Compose** - 多容器應用編排
 - **Nginx** - 反向代理與靜態檔案服務
@@ -82,11 +85,13 @@ docker-compose exec backend python manage.py createsuperuser
 ```
 
 訪問應用：
+
 - 🌐 **前端應用**：http://localhost:3000
 - 🔌 **後端 API**：http://localhost:8000/api
 - ⚙️ **管理後台**：http://localhost:8000/admin
 
 停止服務：
+
 ```bash
 docker-compose down
 ```
@@ -334,3 +339,4 @@ npm run format
 
 ⭐ 如果這個專案對你有幫助，請給個 Star！
 
+12313213213213213213213213213
